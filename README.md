@@ -1,10 +1,9 @@
 # Temperature Converter
 
-Convert Fahrenheit to Celcius, using Tensorflow and PyTorch
+_Convert Fahrenheit to Celcius, using Tensorflow and PyTorch_
 
-Steps 
+### Development Steps 
 
-```md
 - Libraries
     - Tensorflow for Neural Net
     - Numpy for arrays
@@ -23,8 +22,13 @@ Steps
     - Matplotlib
     - Shows how the Loss (error) progresses over Epochs (time)
 - Test with an actual value
-```
- 
- Copy these steps with Tensorflow, using a GoogleCollab notebook
 
- Recreate this with Torch
+
+
+
+
+### Instructions
+Clone this repo and run the Jupyter notebook with 
+
+`source .venv/bin/activate` and on Windows `.venv\Scripts\activate`
+Recreate this with Torch
