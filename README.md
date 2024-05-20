@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker" />
+  </a>
+</p>
+
 # Temperature Converter
 
 _Convert Fahrenheit to Celcius, using Tensorflow and PyTorch_
