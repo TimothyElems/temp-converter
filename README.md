@@ -33,8 +33,9 @@ _Convert Fahrenheit to Celcius, using Tensorflow and PyTorch_
 
 
 
-### Instructions
+<!-- ### Instructions
 Clone this repo and run the Jupyter notebook with 
 
 `source .venv/bin/activate` and on Windows `.venv\Scripts\activate`
 Recreate this with Torch
+-->
